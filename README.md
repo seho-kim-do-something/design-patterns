@@ -1,4 +1,4 @@
-### Design patterns practice in progress ...###
+### Design patterns practice in progress ... ###
 Factory design pattern
 
 Builder design pattern
